@@ -1,4 +1,5 @@
 # Android device tree for oplus ossi (ossi)
+For Realme 12+ 5g 
 
 ```
 #
