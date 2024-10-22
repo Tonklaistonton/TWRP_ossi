@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_ossi.mk
+    $(LOCAL_DIR)/twrp_rmx3867.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ossi-user \
-    twrp_ossi-userdebug \
-    twrp_ossi-eng
+    twrp_rmx3867-user \
+    twrp_rmx3867-userdebug \
+    twrp_rmx3867-eng
