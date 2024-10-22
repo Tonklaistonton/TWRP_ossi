@@ -22,4 +22,4 @@ For Realme 12+ 5g
 
 ## Device picture
 
-![Realme 12 plus 5g ]([https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg](https://www.siamphone.com/spec/lo/realme/12_plus_5g.htm))
+![Realme 12 plus 5g ]([[https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg](https://www.siamphone.com/spec/lo/realme/12_plus_5g.htm)](https://cdn.siamphone.com/spec/realme/images/12_plus_5g/1710943092_01-realme-12-plus-5g.jpg))
