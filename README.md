@@ -20,6 +20,3 @@ For Realme 12+ 5g
 | Fingerprint             | In-display                                                                     |
 | Sensors                 | Accelerometer, Gyro, Proximity, Ambient light, Orientation                     |
 
-## Device picture
-
-![Realme 12 plus 5g ](file:///C:/Users/phanu/Downloads/1710943092_01-realme-12-plus-5g.jpg)
